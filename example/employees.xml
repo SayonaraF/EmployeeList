@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<EmployeesList>
+    <employee name = "Горбачева Евгения Игоревна"
+              birthday = "05.05.1995"
+              employmentDate = "28.02.2015"
+              post = "worker" />
+    <employee name = "Бордалас Антон Андуинович"
+              birthday = "31.05.1987"
+              employmentDate = "20.06.2010"
+              post = "worker" />
+    <employee name = "Денисов Андрей Борисович"
+              birthday = "14.04.1990"
+              employmentDate = "9.11.2009"
+              post = "manager"
+              subordinates = "Бордалас Антон Андуинович" />
+    <employee name = "Красильникова Виктория Григорьевна"
+              birthday = "20.03.1994"
+              employmentDate = "17.10.2012"
+              post = "other"
+              description = "Бухгалтер" />
+</EmployeesList>

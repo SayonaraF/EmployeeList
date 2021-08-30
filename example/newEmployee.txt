@@ -1,0 +1,5 @@
+name=Занозин Дмитрий Анатольевич
+birthday=17.09.1984
+employmentDate=02.11.2020
+post=other
+description=Директор по логистике
